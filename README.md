@@ -1,1 +1,1 @@
-# sample-online-jewellery-shopping-prjoect
+# sample-online-jewellery-shopping-project
